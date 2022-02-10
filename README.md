@@ -4,7 +4,9 @@ This is an Android application made to detect if a person is wearing mask or not
 it is made using Microsoft Lobe application, which has been primarly used to train the model using the data.
 Data has been taken from Kaggle website.
 </div>
-
+<br>
+<br>
+<br>
 <div style="text-align:center"><img src="assets/header.png" /></div>
 <br>
 
